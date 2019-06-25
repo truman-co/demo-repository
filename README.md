@@ -1,4 +1,4 @@
 # demo-repository
 Demo repository for truman organization
 
-here is a small change to the readme
+Editing the Readme for the benefit of a pull request
